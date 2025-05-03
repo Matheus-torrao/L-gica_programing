@@ -1,8 +1,7 @@
 # Lógica de Programação # 
 1. Soma Simples
-Escreva um programa que solicite dois números inteiros ao usuário e exiba a soma deles.
+Escreva um programa que solicite dois números inteiros ao usuário e exiba a soma deles. (X)
 
-📌 Desafio extra: Não use a operação de soma +.
 
 2. Par ou Ímpar
 Peça um número ao usuário e diga se ele é par ou ímpar.
